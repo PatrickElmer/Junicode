@@ -3,7 +3,6 @@
     font-family: 'Junicode';
     font-style: normal;
     font-weight: 400;
-    font-display: swap;
     src: url(https://cdn.jsdelivr.net/gh/psb1558/Junicode-font@Junicode-One/legacy/Junicode.ttf);
 }
 /* Bold */
@@ -11,7 +10,6 @@
     font-family: 'Junicode';
     font-style: normal;
     font-weight: 700;
-    font-display: swap;
     src: url(https://cdn.jsdelivr.net/gh/psb1558/Junicode-font@Junicode-One/legacy/Junicode-Bold.ttf);
 }
 /* Italic */
@@ -19,7 +17,6 @@
     font-family: 'Junicode';
     font-style: italic;
     font-weight: 400;
-    font-display: swap;
     src: url(https://cdn.jsdelivr.net/gh/psb1558/Junicode-font@Junicode-One/legacy/Junicode-Italic.ttf);
 }
 /* BoldItalic */
@@ -27,6 +24,5 @@
     font-family: 'Junicode';
     font-style: italic;
     font-weight: 400;
-    font-display: swap;
     src: url(https://cdn.jsdelivr.net/gh/psb1558/Junicode-font@Junicode-One/legacy/Junicode-BoldItalic.ttf);
 }
